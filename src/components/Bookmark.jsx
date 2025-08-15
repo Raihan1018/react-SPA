@@ -1,5 +1,3 @@
-import React from "react";
-
 const Bookmark = ({ bookmark }) => {
   const { title } = bookmark;
   return (
