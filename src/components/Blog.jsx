@@ -2,6 +2,7 @@ import { CiBookmark } from "react-icons/ci";
 
 const Blog = ({ blog, handleAddToBookmark, handleReadingTime }) => {
   const {
+    id,
     author_img,
     author_name,
     cover_img,
@@ -38,7 +39,6 @@ const Blog = ({ blog, handleAddToBookmark, handleReadingTime }) => {
       </div>
       {/* title */}
       <h2 className="text-3xl">{title}</h2>
-      {/* hash tag */}
       <p className="space-x-2 text-gray-400">
         {hash_tag.map((hash, index) => (
           <span key={index}>
@@ -48,8 +48,8 @@ const Blog = ({ blog, handleAddToBookmark, handleReadingTime }) => {
       </p>
       <div>
         <button
-          onClick={() => handleReadingTime(reading_time)}
-          className="hover:text-gray-500 transition-all duration-150"
+          onClick={() => handleReadingTime(reading_time, id)}
+          className="hover:text-purple-700 transition-all duration-150 text-purple-500 text-xl underline"
         >
           Mark as read
         </button>
