@@ -7,7 +7,7 @@
     "post_date": "2025-08-10",
     "reading_time": 7,
     "hash_tag": ["#React", "#WebDevelopment"],
-    "cover_img": "https://picsum.photos/seed/react-hooks/1200/630.jpg"
+    "cover_img": "https://images.unsplash.com/photo-1478104718532-efe04cc3ff7f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNzc3xlbnwwfHwwfHx8MA%3D%3D"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "post_date": "2025-07-25",
     "reading_time": 5,
     "hash_tag": ["#JavaScript", "#CodingTips"],
-    "cover_img": "https://picsum.photos/seed/javascript-tips/1200/630.jpg"
+    "cover_img": "https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNzc3xlbnwwfHwwfHx8MA%3D%3D"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "post_date": "2025-08-05",
     "reading_time": 4,
     "hash_tag": ["#TailwindCSS", "#CSS"],
-    "cover_img": "https://picsum.photos/seed/tailwind-guide/1200/630.jpg"
+    "cover_img": "https://images.unsplash.com/photo-1508317469940-e3de49ba902e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y3NzfGVufDB8fDB8fHww"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "post_date": "2025-06-30",
     "reading_time": 9,
     "hash_tag": ["#MachineLearning", "#AI"],
-    "cover_img": "https://picsum.photos/seed/machine-learning/1200/630.jpg"
+    "cover_img": "https://images.unsplash.com/photo-1662116137257-6e5793c365ec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGNzc3xlbnwwfHwwfHx8MA%3D%3D"
   },
   {
     "id": 5,
@@ -47,6 +47,6 @@
     "post_date": "2025-08-12",
     "reading_time": 6,
     "hash_tag": ["#TypeScript", "#JavaScript"],
-    "cover_img": "https://picsum.photos/seed/typescript-trend/1200/630.jpg"
+    "cover_img": "https://plus.unsplash.com/premium_photo-1661427362516-189184222f3b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fGNzc3xlbnwwfHwwfHx8MA%3D%3D"
   }
 ]
