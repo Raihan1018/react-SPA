@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering React Hooks for Modern Web Development",
+    "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+    "author_name": "Ayesha Rahman",
+    "post_date": "2025-08-10",
+    "reading_time": 7,
+    "hash_tag": ["#React", "#WebDevelopment"],
+    "cover_img": "https://picsum.photos/seed/react-hooks/1200/630.jpg"
+  },
+  {
+    "id": 2,
+    "title": "10 Proven Tips to Boost Your JavaScript Skills",
+    "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+    "author_name": "Raiyan Karim",
+    "post_date": "2025-07-25",
+    "reading_time": 5,
+    "hash_tag": ["#JavaScript", "#CodingTips"],
+    "cover_img": "https://picsum.photos/seed/javascript-tips/1200/630.jpg"
+  },
+  {
+    "id": 3,
+    "title": "A Beginner’s Guide to Tailwind CSS",
+    "author_img": "https://randomuser.me/api/portraits/women/21.jpg",
+    "author_name": "Mehnaz Akter",
+    "post_date": "2025-08-05",
+    "reading_time": 4,
+    "hash_tag": ["#TailwindCSS", "#CSS"],
+    "cover_img": "https://picsum.photos/seed/tailwind-guide/1200/630.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Understanding the Fundamentals of Machine Learning",
+    "author_img": "https://randomuser.me/api/portraits/men/41.jpg",
+    "author_name": "Shahriar Hossain",
+    "post_date": "2025-06-30",
+    "reading_time": 9,
+    "hash_tag": ["#MachineLearning", "#AI"],
+    "cover_img": "https://picsum.photos/seed/machine-learning/1200/630.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Why TypeScript is Taking Over JavaScript Projects",
+    "author_img": "https://randomuser.me/api/portraits/women/65.jpg",
+    "author_name": "Nusrat Jahan",
+    "post_date": "2025-08-12",
+    "reading_time": 6,
+    "hash_tag": ["#TypeScript", "#JavaScript"],
+    "cover_img": "https://picsum.photos/seed/typescript-trend/1200/630.jpg"
+  }
+]
